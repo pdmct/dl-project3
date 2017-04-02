@@ -2,13 +2,15 @@
 ----------
 
 Contents:
-1. dlnd_tv_script_generation.ipynb
-2. helper.py
-3. problem_unittests.py
-# README.md
+---
+1. dlnd_tv_script_generation.html
+2. dlnd_tv_script_generation.ipynb
+3. helper.py
+4. problem_unittests.py
+5. README.md
 
 
-Final output with prime_word = 'moe_szyslak'
+### Final output with prime_word = 'moe_szyslak'
 
 ```moe_szyslak: homer, can you say the alphabet backwards?
 homer_simpson:(beligerent) oh, you'd like that wouldn't you, ya...
